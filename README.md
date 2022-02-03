@@ -11,4 +11,4 @@ Hello I am an computer and android enthusiast. I am leaning coding and other bun
 ## Reach me
 * Discord - NaBiL | BS | 27K+#2854
 * [Reddit](https://www.reddit.com/user/patrick-nabil)
-* [Twitter]()
+* [Twitter](https://twitter.com/Nabilpatrick1)

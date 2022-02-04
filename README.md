@@ -16,3 +16,5 @@ Hello I am an computer and android enthusiast. I am learning web development, pr
 * [Reddit](https://www.reddit.com/user/patrick-nabil)
 * [Twitter](https://twitter.com/Nabilpatrick1)
 
+## My Stats
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=spot-nabil&show_icons=true&theme=radical)

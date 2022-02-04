@@ -1,12 +1,13 @@
 # Intruduction
 
-Hello I am an computer and android enthusiast. I am leaning coding and other bunch of stuff. Eager to contribute to different kinds of projects.
+Hello I am an computer and android enthusiast. I am learning web development, programming and other bunch of stuff. Eager to contribute to different kinds of projects.
 
 ## My goals
 
 - [x] HTML
 - [ ] CSS
 - [ ] Javascipt
+- [ ] PHP
 
 ## Reach me
 * Discord - NaBiL | BS | 27K+#2854

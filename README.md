@@ -1,5 +1,7 @@
 # Intruduction
 
+![](https://komarev.com/ghpvc/?username=spot-nabil&color=green)
+
 
 Hello I am an computer and android enthusiast. I am learning web development, programming and other bunch of stuff. Eager to contribute to different kinds of projects.
 

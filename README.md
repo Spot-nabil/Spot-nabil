@@ -14,7 +14,7 @@ Hello I am an computer and android enthusiast. I am learning web development, pr
 
 
 ## Reach me
-* Discord - NaBiL | BS | 27K+#2854
+* Discord - NaBiL#2854
 * [Reddit](https://www.reddit.com/user/patrick-nabil)
 * [Twitter](https://twitter.com/Nabilpatrick1)
 

@@ -10,7 +10,6 @@ Hello I am an computer and android enthusiast. I am learning web development, pr
 - [x] HTML
 - [ ] CSS
 - [ ] Javascipt
-- [ ] PHP
 
 
 ## Reach me

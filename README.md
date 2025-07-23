@@ -6,14 +6,14 @@
 Hello I am an computer and android enthusiast. I am learning web development, programming and other bunch of stuff. Eager to contribute to different kinds of projects.
 
 ## My goals
-
-- [x] HTML
+- [ ] Python
+- [ ] HTML
 - [ ] CSS
 - [ ] Javascipt
 
 
 ## Reach me
-* Discord - NaBiL#2854
+* Discord - 
 * [Reddit](https://www.reddit.com/user/patrick-nabil)
 * [Twitter](https://twitter.com/@NoBillTech)
 
